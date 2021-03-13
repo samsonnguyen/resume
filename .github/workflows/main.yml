@@ -1,0 +1,19 @@
+name: publish
+on: push
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@latest@v2
+      - name: Install and 
+        run: |
+          npm install
+          resume export resume.pdf --theme onepage
+          resume export index.html --theme onepage
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.0
+        if: ${{ !env.ACT }}
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: .

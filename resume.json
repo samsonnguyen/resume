@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Samson Nguyen",
+    "label": "Webops Engineer",
+    "email": "samson@samsonnguyen.ca",
+    "website": "https://samsonnguyen.ca",
+    "summary": "An experienced production capable software developer and manager. Comfortable working in demanding environments and solving large scale problems",
+    "location": {
+      "city": "Calgary",
+      "countryCode": "CA",
+      "region": "Alberta"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "samsonnguyen",
+        "url": "https://github.com/samsonnguyen"
+      },
+      {
+        "network": "GitLab",
+        "username": "samsonnguyen",
+        "url": "https://gitlab.com/samsonnguyen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cisco Systems",
+      "position": "Senior software engineering manager – Web portal",
+      "startDate": "Feb 2020",
+      "endDate": "Current",
+      "summary": "Managed the web operations team, as well as a scrum feature development team",
+      "highlights": [
+        "Containerized application workloads to run on AWS ECS and EKS",
+        "Delivered complex business driven features on a monolithic rails application in a scrum setting",
+        "Improved the mean time to response, monitoring and alerting capabilities of the production engineering team",
+        "Founded a core application team responsible for improving the developer experience",
+        "Worked closely with our escalations group to handle client facing production fires"
+      ]
+    },
+    {
+      "company": "Cisco Systems",
+      "position": "Software engineer technical lead",
+      "startDate": "Feb 2017",
+      "endDate": "Feb 2020",
+      "highlights": [ 
+        "Improved the developer onboarding experience by introducing vagrant and other simplifications, eventually transitioning to docker-compose",
+        "Led a remote team to develop two Splunk apps from the ground up, which included creating backend infrastructure, apis and client side code"
+      ]
+    },
+    {
+      "company": "Solium",
+      "position": "Production support technician",
+      "startDate": "Sept 2012",
+      "endDate": "Feb 2017",
+      "highlights": [ 
+        "On-call supporting production systems",
+        "Worked with a truly global team with team members in multiple timezones",
+        "Responsible for site reliability, accuracy, functionality, and uptime",
+        "Troubleshot and implemented SSO solutions for customers using a variety of different IdPs"
+      ]
+    },
+    {
+      "company": "Solium",
+      "position": "Software developer",
+      "startDate": "Aug 2011",
+      "endDate": "Sept 2012",
+      "highlights": [ 
+        "Developed business driven features for the Shareworks stock management platform using JavaEE and Google Web Toolkit"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "area": "BSc, Natural Sci. w/concentrations in Computer Science, Biology",
+      "studyType": "Bachelor",
+      "startDate": "2005",
+      "endDate": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud deployment",
+      "keywords": [
+        "Kubernetes",
+        "GitOps",
+        "ECS",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Software architecture",
+      "keywords": [
+        "Convention over configuration",
+        "Rails",
+        "Scalable designs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "Elasticsearch",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Chef",
+        "Agile - Scrum + Kanban",
+        "Javascript"
+      ]
+    }
+
+  ],
+  "interests": [
+    {
+      "name": "Home labbing",
+      "keywords": [
+        "k8s",
+        "virtualization",
+        "homeautomation"
+      ]
+    },
+    {
+      "name": "3d printing",
+      "keywords": [
+        "Printer building"
+      ]
+    }
+  ]
+}

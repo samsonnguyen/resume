@@ -1,5 +1,7 @@
 # Samson Nguyen's personal resume
 
+[![publish](https://github.com/samsonnguyen/resume/actions/workflows/main.yml/badge.svg)](https://github.com/samsonnguyen/resume/actions/workflows/main.yml)
+
 * [Hosted version](https://samsonnguyen.github.io/resume/)
 * [PDF](https://github.com/samsonnguyen/resume/raw/gh-pages/resume.pdf)
 

@@ -82,6 +82,15 @@
   ],
   "skills": [
     {
+      "name": "Software",
+      "keywords": [
+        "Ruby on Rails",
+        "Python",
+        "Java",
+        "React"
+      ]
+    },
+    {
       "name": "Cloud deployment",
       "keywords": [
         "Kubernetes",
@@ -112,7 +121,7 @@
       "keywords": [
         "Chef",
         "Agile - Scrum + Kanban",
-        "Javascript"
+        "Linux"
       ]
     }
 
